@@ -1,6 +1,8 @@
 # Variational Autoencoder
 ![](Images/main_gif.gif)
 
+## &#x1F4D8; Kaggle Kernel [click here](https://www.kaggle.com/vatsalparsaniya/variational-autoencoder-convolutional)
+### &#x1F53C; Please!!! Upvote Kaggle kernel if you find it useful.
 
 
 ### Autoencoder
@@ -39,7 +41,8 @@
   7. Variational Autoencoder.
 
 
-# convolutional Variational Autoencoder (Mnist) 
+# convolutional Variational Autoencoder (Mnist)
+### Model architecture 
 <img src="Images/L2_E30/variational_encoder_L2_E_30.png" height="1000">
 
 ### Generated Numbers from latent space 
